@@ -1,0 +1,33 @@
+body {
+    background: url(fundo.jpg);
+    background-position: center center;
+    background-size: cover cover;
+    padding: 0;
+    margin: 0;
+}
+
+.foto {
+    height: 10px;
+    z-index: 1;
+}
+.casa {
+    background: rgba(0, 0, 0, 0.442);
+    width: 400px;
+    margin: 20px;
+}
+
+.property {
+    margin: 20px;
+}
+
+div {
+    font-size: 100;
+}
+
+.value {
+    font-size: 20px;
+}
+
+
+
+
